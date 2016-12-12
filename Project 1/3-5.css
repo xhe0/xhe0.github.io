@@ -1,0 +1,24 @@
+h1{
+	text-align: center;
+}
+h6{
+	border:2px dashed black;
+	padding: 20px;
+	margin: 30px;
+	text-align: center;
+}
+h5{
+	float: left;
+	text-align: left;
+}
+h4{
+	text-align: center;
+}
+h3{
+	text-align: right;
+	float: right;
+}
+h2{
+	text-align: left;
+	float: left;
+}

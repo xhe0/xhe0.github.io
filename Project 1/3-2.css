@@ -1,0 +1,29 @@
+h1{
+	border: 2px dotted red;
+	padding: 20px;
+	margin: 30px;
+}
+h4{
+	margin:20px 30px 30px 20px;
+	position: absolute;
+}
+p{
+	position: relative;
+	margin: 40px;
+	float:right;
+}
+h5{
+	margin: 150px;
+	float: left;
+	position: relative;
+}
+h6{
+	margin: 200px;
+	border: 2px disc black;
+	position: fixed;
+	float: right;
+}
+h3{
+	float: right;
+	margin-top: 80px;
+}

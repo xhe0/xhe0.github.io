@@ -1,0 +1,53 @@
+body{
+	font-family: cursive;
+}
+h1{
+	font-size: 30px;
+	font-style: bold;
+	border: 2px dashed blue;
+	color: blue;
+	text-align: center;
+	display: block;
+	margin: auto;
+	display: block;
+}
+h2{
+	margin-left: 30px;
+	background: #c4cc88;
+	margin: auto;
+	display: inline-block;
+}
+.box1{
+	font-size: 16px;
+	background: violet;
+	margin: auto;
+	padding: 20px;
+	display: inline-block;
+	color: white;
+}
+.box2{
+	font-size: 16px;
+	background: pink;
+	margin: auto;
+	float: right;
+	padding: 20px;
+	display: inline-block;
+	color: white;
+}
+.box3{
+	font-size: 16px;
+	background: #000033;
+	color:white;
+	padding: 20px;
+	text-align: center;
+	display: block;
+	margin:auto;
+}
+.box4{
+	font-size: 16px;
+	background: AntiqueWhite;
+	padding: 20px;
+	float: left;
+	display: block;
+	color: gray;
+}

@@ -1,0 +1,52 @@
+body{
+	font-family: Cursive;
+}
+h1{
+	font-size: 50px;
+	font-style: bold;
+	border: 1px dotted skyblue;
+	color: blue;
+	text-align: center;
+}
+h2{
+	color: #000088;
+	margin-left: 30px;
+	padding: 30px;
+	background: violet;
+	text-align: right;
+}
+.box1{
+	font-size: 20px;
+	background: AntiqueWhite;
+	position: relative;
+	margin: auto;
+	padding: 20px;
+	display: block;
+}
+.box2{
+	font-size: 16px;
+	background: gray;
+	position: relative;
+	margin: auto;
+	float: right;
+	padding: 20px;
+	display: block;
+	color: white;
+}
+.box3{
+	font-size: 24px;
+	background: skyblue;
+	color:darkblue;
+	padding: 20px;
+	text-align: center;
+	display: block;
+	margin:auto;
+}
+.box4{
+	font-size: 24px;
+	background: red;
+	padding: 20px;
+	float: left;
+	display: block;
+	color: white;
+}

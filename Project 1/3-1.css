@@ -1,0 +1,20 @@
+h1{
+	border: 2px dotted red;
+	padding: 20px;
+	margin: 30px;
+}
+h4{
+	margin:20px 30px 30px 20px;
+	position: absolute;
+}
+p{
+	color: brown;
+	position: relative;
+	margin: 40px;
+	padding: 10px;
+	border: 2px solid black;
+	float:right;
+}
+span{
+	float: left;
+}

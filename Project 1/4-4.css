@@ -1,0 +1,56 @@
+body{
+	font-family: Verdana, sans-serif;
+	font-kerning: 2rem;
+}
+h1{
+	font-size: 30px;
+	font-style: bold;
+	border: 2px dashed blue;
+	color: blue;
+	text-align: left;
+	font-family: impact;
+	display: block;
+	margin: auto;
+}
+h2{
+	color: #000088;
+	margin-left: 30px;
+	padding: 30px;
+	background: #c4cc88;
+	text-align: right;
+}
+.box1{
+	font-size: 20px;
+	background: #3e4edd;
+	margin: auto;
+	padding: 20px;
+	display: inline-block;
+	color: white;
+}
+.box2{
+	font-size: 16px;
+	background: #000099;
+	position: relative;
+	margin: auto;
+	float: right;
+	padding: 20px;
+	display: inline-block;
+	color: white;
+}
+.box3{
+	font-size: 24px;
+	background: #000033;
+	color:white;
+	padding: 20px;
+	text-align: center;
+	display: block;
+	margin:auto;
+}
+.box4{
+	font-size: 24px;
+	background: #222222;
+	padding: 20px;
+	float: left;
+	display: block;
+	color: white;
+}

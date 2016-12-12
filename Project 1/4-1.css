@@ -1,0 +1,46 @@
+body{
+	font-family: Helvetica, Arial, sans-serif;
+}
+h1{
+	font-size: 50px;
+	font-style: bold;
+	border: 1px dotted skyblue;
+	color: skyblue;
+	text-align: center;
+}
+h2{
+	color: #000088;
+	margin-left: 30px;
+	padding: 30px;
+	background: orange;
+	text-align: right;
+}
+.box1{
+	background: AntiqueWhite;
+	position: relative;
+	margin: 10px;
+	padding: 20px;
+	float: left;
+	display: inline-block;
+}
+.box2{
+	background: skyblue;
+	position: relative;
+	margin: 80px 80px 30px 30px;
+	float: right;
+	padding: 20px;
+	display: inline-block;
+}
+.box3{
+	background: yellow;
+	padding: 20px;
+	text-align: center;
+	position: static;
+	display: inline-block;
+}
+.box4{
+	background: lightgreen;
+	padding: 20px;
+	float: left;
+	display: inline-block;
+}
